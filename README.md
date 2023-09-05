@@ -6,7 +6,7 @@ view to develop a career in tech. I am also interested in learning other coding 
 and hope to add to add various projects to this page. I am also interested in science and technology in general, especially biosciences.
 
 
-:technologist: Most recently i have completed HyperiondDev's data science bootcamp, the contents of which can be found [here](https://www.hyperiondev.com/portfolio/151647/)
+:technologist: Most recently I have completed HyperiondDev's data science bootcamp, the contents of which can be found [here](https://www.hyperiondev.com/portfolio/151647/)
 
 
 :earth_africa: You can also find me on [LinkedIn](https://www.linkedin.com/in/henry-glasspool/)
