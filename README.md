@@ -1,7 +1,7 @@
 
 **About me** 
 -
-Hello, my name is Henry. I am currently learning everything i can abut coding, with a view to develop a career in tech. I am also interested in science and technology in general, especially biosciences.
+Hello, my name is Henry. I am currently learning everything i can about coding, with a view to develop a career in tech. I am also interested in science and technology in general, especially biosciences.
 
 
 :technologist: Most recently I have completed HyperiondDev's data science bootcamp, the contents of which can be found [here](https://www.hyperiondev.com/portfolio/151647/)
