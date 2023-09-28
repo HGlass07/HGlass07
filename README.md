@@ -6,7 +6,7 @@ Hello, my name is Henry. I am currently learning everything i can abut coding, w
 
 :technologist: Most recently I have completed HyperiondDev's data science bootcamp, the contents of which can be found [here](https://www.hyperiondev.com/portfolio/151647/)
 
-:target: I am now working towards my diploma in full-stack software development, which covers html, css, java, and python/django
+👨‍🎓 I am now working towards my diploma in full-stack software development, which covers html, css, java, and python/django
 
 :earth_africa: You can also find me on [LinkedIn](https://www.linkedin.com/in/henry-glasspool/)
 
