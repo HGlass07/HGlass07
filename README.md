@@ -1,12 +1,12 @@
 
 **About me** 
 -
-Hello, my name is Henry. I am currently learning Python and its use in data science with a
-view to develop a career in tech. I am also interested in learning other coding languages,
-and hope to add to add various projects to this page. I am also interested in science and technology in general, especially biosciences.
+Hello, my name is Henry. I am currently learning everything i can abut coding, with a view to develop a career in tech. I am also interested in science and technology in general, especially biosciences.
 
 
 :technologist: Most recently I have completed HyperiondDev's data science bootcamp, the contents of which can be found [here](https://www.hyperiondev.com/portfolio/151647/)
+
+I am now working towards my diploma in full-stack software development, which covers html, css, java, and python/django
 
 
 :earth_africa: You can also find me on [LinkedIn](https://www.linkedin.com/in/henry-glasspool/)
